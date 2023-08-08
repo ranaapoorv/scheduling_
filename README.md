@@ -6,6 +6,7 @@ Arrival Time - When the task/process comes into the ready state.
 Burst Time -The time period in which the particular task will take to complete.
 Turn Around Time - Total time when the task/process gets into a ready state and till when it gets executed completely. 
 
+
 Input -
 
 ![image](https://github.com/ranaapoorv/hello-apoorv/assets/128348354/80c69f0d-12a4-4c7c-93de-68b10819740d)
