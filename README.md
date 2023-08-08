@@ -1,5 +1,7 @@
 Scheduling of tasks based on the shortest job that can be done first to reduce the waiting time/starvation of the task with gantt chart. 
-Reference: Arrival Time - When the task/process comes into the ready state./n
+
+Reference: 
+            Arrival Time - When the task/process comes into the ready state.
             Burst Time -The time period which the particular task will take to complete.
             Turn Around Time - Total time when the task/process gets into a ready state and till when it gets executed completely. 
 Input -
