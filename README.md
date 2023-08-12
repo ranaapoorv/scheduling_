@@ -10,9 +10,9 @@ Turn Around Time - Total time when the task/process gets into a ready state and 
 
 Input -
 
-![image](https://github.com/ranaapoorv/hello-apoorv/assets/128348354/80c69f0d-12a4-4c7c-93de-68b10819740d)
 
+![Screenshot 2023-08-07 230855](https://github.com/ranaapoorv/scheduling_/assets/128348354/25c2c393-5f2e-480a-bc33-c31f9aff6ce5)
 
 Output - 
 
-![image](https://github.com/ranaapoorv/hello-apoorv/assets/128348354/9814e25c-4a07-4045-8cce-ba90deaf41a7)
+
